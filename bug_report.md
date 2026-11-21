@@ -23,7 +23,7 @@
 实际结果：
 全部商品统一展示小狗图片，图片与商品名称、描述不匹配。
 
-![商品图片错误](screenshots/bug001-product-img-error.png)
+![商品图片异常](screenshots/bug001-product-img-error.png)
 
 ---
 
@@ -46,7 +46,7 @@
 实际结果：
 下拉框UI样式错乱，部分选项文字被遮挡。
 
-![排序下拉UI错乱](screenshots/bug002-ui-sort-offset.png)
+![排序偏移bug](screenshots/bug002-ui-sort-offset.png)
 
 ---
 
@@ -72,4 +72,4 @@ First Name和 Last Name两个输入框相互独立，各自内容不会互相影
 实际结果：
 只要在Last Name输入内容，First Name里面已经填好的内容就会被覆盖丢失，无法同时保存两个字段信息。
 
-![结算输入框bug](screenshots/bug003-checkout-input-overlay.png)
+![结算输入框](screenshots/bug003-checkout-input-overlay.png)
